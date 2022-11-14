@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🔭 I’m currently working on setting this thing up
 
 <!--
 **MichaelSeverinR/MichaelSeverinR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
